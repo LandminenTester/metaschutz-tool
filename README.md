@@ -1,4 +1,6 @@
-# Metaschutz Tool by xBizzlike
+Dieses Tool ist nicht mehr nutzbar, da Twitch ihre Richtlinien verändert und und den Chatter Link gesperrt hat, wodurch dieses System in dieser Art nicht weiter funktioniert! - Es bleibt nur für Lern und Interessenzwecke öffentlich!
+
+# Metaschutz Tool by LandminenTester
 
 Hey! Du spielst auf einem Roleplay Server und bespielst eine Rolle die durch Meta von anderen Spielern beeinflusst werden kann? - Das Tool nimmt alles aktiven Teilnehmer mit einem Twitch Account in deinem Stream und schreibt Sie in eine Textdatei. Diese Namen können im Support genutzt werden, um gegebenenfalls eine Nachweis zu haben, dass eine Person während der aktiven Situation im Stream war.
 
