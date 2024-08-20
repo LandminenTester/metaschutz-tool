@@ -1,4 +1,4 @@
-Dieses Tool ist nicht mehr nutzbar, da Twitch ihre Richtlinien verändert und und den Chatter Link gesperrt hat, wodurch dieses System in dieser Art nicht weiter funktioniert! - Es bleibt nur für Lern und Interessenzwecke öffentlich!
+DAS METASCHUTZ TOOL IST NICHT MEHR NUTZBAR. TWITCH HAT DIE WEBSCHNITTSTELLE FÜR CHATTER ENTFERNT, DAS REPO BLEIBT FÜR LERN UND INTERESSENZWECKE ONLINE!
 
 # Metaschutz Tool by LandminenTester
 
